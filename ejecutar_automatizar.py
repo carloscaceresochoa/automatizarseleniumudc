@@ -1,0 +1,3 @@
+from automatizar3 import prueba_login_sma_automatizada
+
+prueba_login_sma_automatizada()
